@@ -1,0 +1,20 @@
+{
+  "name": "aaa",
+  "private": true,
+  "scripts": {
+    "start": "meteor run"
+  },
+  "dependencies": {
+    "@babel/core": "^7.0.0-beta.39",
+    "@babel/preset-typescript": "^7.0.0-beta.39",
+    "@babel/plugin-proposal-decorators": "^7.0.0-beta.39",
+    "@babel/preset-env": "^7.0.0-beta.32",
+    "@babel/preset-stage-3": "^7.0.0-beta.32",
+    "@babel/runtime": "^7.0.0-beta.36",
+    "localforage": "^1.5.6",
+    "meteor-node-stubs": "^0.3.2"
+  },
+  "devDependencies": {
+    "@babel/plugin-proposal-decorators": "^7.0.0-beta.39"
+  }
+}
